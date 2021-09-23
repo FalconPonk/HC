@@ -1,0 +1,164 @@
+body {
+    font-family: 'Oregano', sans-serif;
+    font-weight: 300;
+  }
+  
+  header {
+    padding: 0.75px 0px;
+    justify-content: flex;
+    background-color: saddlebrown;
+  }
+  
+  header .row,
+  footer .row {
+    display: flex;
+    align-items: center;
+  }
+  
+  header nav {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  header p {
+    font-family: 'Oregano', sans-serif;
+    font-size: 150%;
+    color:sandybrown;
+    padding: 0 70px;
+    margin: 0;
+  }
+  
+  .jumbotron {
+    display: flex;
+    align-items: center;
+    background-image: url('image/COCA/DSC_0620.JPG');
+    background-size: cover;
+    color: #ffffff;
+    height: 350px;
+    text-shadow: 0.30px 0.30px 0.30px #000000;
+  }
+  
+  .section-container h2 {
+    color: saddlebrown;
+    text-align: center;
+    font-weight: 700;
+    margin: 0;
+  }
+
+ .section-container {
+    background-image: url('image/elements_séparés/logo\ image.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ }
+  
+  .jumbotron h3 {
+    margin: 0 0 20px;
+    color: #fff;
+  }
+
+  .row {
+    position: relative;
+    text-align: center;
+    color: saddlebrown;
+    margin: 0 0 10px;
+    
+  }
+
+  .soins {
+    margin: 135px;
+    padding: 185px; 
+    background-image: url('Image/elements_séparés/Logo\ soins.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: inherit;
+    align-items: flex-end;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 260px;
+    color: saddlebrown;
+    font-size: 150%;
+    font-weight: bold;
+  }
+
+  .contact {
+    text-align: center;
+    font-size: x-large;
+    margin: 150px;
+    justify-content: center;
+  }
+
+  h1 {
+    color: saddlebrown;
+    text-align: center;
+  }
+
+  h3 {
+    color: saddlebrown;
+    text-align: center;
+  }
+
+  h2 {
+    background-image: url('image/elements_séparés/logo\ image.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    color: saddlebrown;
+    font-weight: bolder;
+    text-align: center;
+    padding: 65px;
+  }
+  .nous {
+    text-align: center;
+    font-size: x-large;
+    margin: 150px;
+
+  }
+
+  .table th, tr {
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 125%;
+    text-align: center;
+  }
+
+  .tableau {
+    background-image: url('image/elements_séparés/logo\ image.svg');
+    background-size: cover;
+    background-color: transparent;
+    margin: 0 0 25px;
+    padding: 0 0 25px;
+  }
+
+  img.display {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+  }
+
+  .actu {
+    text-align: center;
+    font-size: x-large;
+    margin: 150px;
+    justify-content: center;
+  }
+
+  footer {
+    font-size: 12px;
+    padding: 20px 0;
+  }
+  
+  footer .col-sm-8 {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  footer ul {
+    list-style: none;
+  }
+  
+  footer li img {
+    width: 32px;
+    height: 32px;
+  }
