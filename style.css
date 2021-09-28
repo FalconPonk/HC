@@ -46,7 +46,7 @@ body {
   }
 
  .section-container {
-    background-image: url('image/elements_séparés/logo image.svg');
+    background-image: url('image/elements_séparés/logo_image.svg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -101,7 +101,7 @@ body {
   }
 
   h2 {
-    background-image: url('image/elements_séparés/logo\ image.svg');
+    background-image: url('image/elements_séparés/logo_image.svg');
     background-repeat: no-repeat;
     background-position: center;
     color: saddlebrown;
@@ -124,7 +124,7 @@ body {
   }
 
   .tableau {
-    background-image: url('image/elements_séparés/logo\ image.svg');
+    background-image: url('image/elements_séparés/logo_image.svg');
     background-size: cover;
     background-color: transparent;
     margin: 0 0 25px;
