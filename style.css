@@ -31,7 +31,7 @@ body {
   .jumbotron {
     display: flex;
     align-items: center;
-    background-image: url('/master/Image/COCA/DSC_0620.JPG');
+    background-image: url('/Image/COCA/DSC_0620.JPG');
     background-size: cover;
     color: #ffffff;
     height: 350px;
