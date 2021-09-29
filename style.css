@@ -46,7 +46,7 @@ body {
   }
 
  .section-container {
-    background-image: url('Image/elements_séparés/transparent_logo.png');
+    background-image: url('Image/elements_séparés/logo_image.svg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
